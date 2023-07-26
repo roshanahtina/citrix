@@ -12,3 +12,8 @@ What is Citrix ADM(NetScaler Application Delivery and Management - (NetScaler AD
 SNIP - Subnet IP ADD
 MIP - Mapped IP ADD
 VIP - Virtual IP ADD
+
+OS - Linux-based BSD 
+/ = RAM Drive
+/Var = partition on hard Drive
+/flash = partition on SATA Flash Drive
