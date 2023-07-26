@@ -19,4 +19,4 @@ OS - Linux-based BSD
 /flash = partition on SATA Flash Drive
 
 Show runningconfig
-
+Perform the initial configuration of the Citrix ADC, which involves the NSIP, SNIP, DNS server, hostname, and time sync.
