@@ -15,5 +15,8 @@ VIP - Virtual IP ADD
 
 OS - Linux-based BSD 
 / = RAM Drive
-/Var = partition on hard Drive
+/Var = partition on the hard drive
 /flash = partition on SATA Flash Drive
+
+Show runningconfig
+
