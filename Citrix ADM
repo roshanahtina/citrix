@@ -21,3 +21,12 @@ OS - Linux-based BSD
 
 Show runningconfig
 Perform the initial configuration of the Citrix ADC, which involves the NSIP, SNIP, DNS server, hostname, and time sync.
+
+Network Topology:
+- One Arm Mode (Simple Configuration)
+- Two Arm Mode (Inline)
+
+
+
+
+
